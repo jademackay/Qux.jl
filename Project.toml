@@ -1,0 +1,4 @@
+name = "Qux"
+uuid = "346bbf2b-06a2-4f54-b8d8-eb5f2a6e1863"
+authors = ["Jade Mackay <jademackay@gmail.com>"]
+version = "0.1.0"
